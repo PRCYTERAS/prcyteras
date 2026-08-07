@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com"
+
+[[mods]]
+modId="prcyterasmod"
+version="1.0.0"
+displayName="Prcyteras Bow Aimbot"
+authors="PRCYTERAS"
+description="Zombilere karsı yasal homing bow hilesi."
