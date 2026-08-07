@@ -1,4 +1,4 @@
-name: Prcyteras Aimbot Build
+ame: Prcyteras Aimbot Build
 
 on: [push, workflow_dispatch]
 
